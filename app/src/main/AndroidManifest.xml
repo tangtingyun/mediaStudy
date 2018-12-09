@@ -18,6 +18,8 @@
         <activity
             android:name=".AudioRecoder"
             android:label="Media Capture">
+        </activity>
+        <activity android:name=".opengl.GlActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
